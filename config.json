@@ -1,6 +1,5 @@
 {
-    "dataServerFile": "/tmp/rsc-data-server.sock",
-    "dataServerTCP": "localhost:9001",
+    "dataServerTCP": "localhost:8123",
     "dataServerPassword": "test",
     "version": 204,
     "worldID": 1,
